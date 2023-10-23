@@ -19,10 +19,10 @@ nav ul li :hover {
     color: #E08217;
 }
 
-nav ul li :active {
+/* nav ul li :active {
     color: #E08217;
     text-decoration: underline;
-}
+} */
 
 nav ul li {
     display: inline;
