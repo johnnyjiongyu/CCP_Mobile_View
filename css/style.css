@@ -2,11 +2,6 @@ body {
     background-color: #FDFEEC;
 }
 
-a:active {
-    color: #E08217;
-    text-decoration: underline;
-}
-
 .skip {
     top: -40px;
     position: absolute;
@@ -22,6 +17,11 @@ nav {
 nav ul li :hover {
     text-decoration: underline;
     color: #E08217;
+}
+
+nav ul li :active {
+    color: #E08217;
+    text-decoration: underline;
 }
 
 nav ul li {
