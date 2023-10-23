@@ -2,6 +2,11 @@ body {
     background-color: #FDFEEC;
 }
 
+a:active {
+    color: #E08217;
+    text-decoration: underline;
+}
+
 .skip {
     top: -40px;
     position: absolute;
