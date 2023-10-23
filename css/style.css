@@ -19,7 +19,7 @@ nav ul li :hover {
     color: #E08217;
 }
 
-nav ul li:active {
+nav ul li :visited {
     color: #E08217;
     text-decoration: underline;
 }
